@@ -1,0 +1,6 @@
+{
+    "siteTitle":"Localization Demo in Angular using ngx-translate",
+    "greetings":"Hello",
+    "headingText":"My name is",
+    "subHeading":"This text is in English"
+}
